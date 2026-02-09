@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<!--
+<!--Sales Analyst with many years of experience working with sales data and analytical datasets. I have expertise in cleaning, validating, and structuring data, as well as
+creating accurate reports and analytical materials.Proficient in Excel, Google Sheets, and SQL, and certified as an Associate Data Analyst by DataCamp. Skilled in working with large datasets, identifying patterns and insights, and making data‑driven decisions. Experienced in collaborating with cross‑functional teams and motivated to grow in product analytics, including A/B testing, product
+metrics, and dashboard development.
 **AnnaKobzar25/AnnaKobzar25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
